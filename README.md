@@ -1,2 +1,2 @@
 # django-rest-recipe-api
-Recipe app api using django rest framework
+Recipe crud api with user auth built using django rest framework with test driven development also utilizing docker and travis ci.
